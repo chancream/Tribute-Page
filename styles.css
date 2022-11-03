@@ -1,0 +1,44 @@
+#main{
+  background:gray;
+}
+#head{
+  text-align: center;
+  background: darkred;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 800px;
+}
+
+#pne{
+ text-align: center;
+}
+
+#img-caption{
+  text-align: center;
+}
+
+#tribute-info{
+  font-weight: bold;
+  text-align: center;
+  background-color:darkred;
+}
+
+ul{
+  color:red;
+  margin-left:200px;
+  margin-right:200px;
+}
+
+#list-color{
+  background-color: darkgray
+}
+
+
+
+	
+}
